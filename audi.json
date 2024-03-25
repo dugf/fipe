@@ -5596,8 +5596,22 @@
             "transponderClone": "Não clona"
           },
           "2017": {
-            "laminaTextDica": "abc",
-            "telecomandoBatery": "cr 2032 3v"
+            "transponderNomenclatura": "id48 can tp23",
+            "valueCopyStore": "3330",
+            "valueKeyAlarm": "1180",
+            "valueKeyCopy": "670",
+            "laminasKeys": "gold 683; silca hu66;",
+            "laminaTextDica": "Habilitação: Por equipamento via OBDII;\nSenha: 5 digitos;\n-Dica: Somente chave virgem",
+            "telecomandoProcedure": "Habilitação:Ao habilitar o transponder, o telecomando entra automático;\nNão usa senha;",
+            "valueKeyConfectAlarm": "1930",
+            "transponderImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghBNFq9mgb3FSyowN5oCapukwXg8EIa72nQT_ArRbIEcqpN8Fb_-YvzLKZCy7zJ9-TV0VtysvL51xn8kK5-pBEtw3jFzFOqpSQeobBy35peNmv67XcgkvR-Kuw_MrwQ7lEpOWTizHG6UxztQfN5QLJUtlz9J9vBxVsQRgXe7qJcMgVGe59f2dHfzm69gCE/s536/transponder_t44.png",
+            "telecomandoImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE4hkE2QuY02X1fgsEEHf8n8GrnDpR3-mSFfL_LRiCw0JM09Z00PI3KWu8J0WApOWXVgVx_mXs48Q3fwmZZLgJCMw_z-OQk9YKM_smQB8JiPcKeeKVX8kknOOkVL75gqZdY0Ipzdscoh0flFZi6NMMoVtJfDiuh1_VBlZpKH5pgpM6u_KcEOtfi2667gPe/s440/telecomando_id48.png",
+            "valueKeyConfect": "1460",
+            "maquinasCodificadoras": "-OBD STAR X300\n-VVDI",
+            "telecomandoFrequency": "434",
+            "valueDataKeyChip": "ID: 48; PCF: -; SÉRIE: t42;",
+            "telecomandoBatery": "cr 2032 3v",
+            "transponderClone": "Não clona"
           },
           "2016": {
             "transponderNomenclatura": "id48 can tp23",
